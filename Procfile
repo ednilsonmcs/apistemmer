@@ -1,1 +1,1 @@
-web: gunicorn nao_entre_em_panico:app
+web: gunicorn main:app

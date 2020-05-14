@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.8
+gunicorn==19.10.0
+-e git+http://github.com/lsdr/ptstemmer.git#egg=ptstemmer&subdirectory=Python
